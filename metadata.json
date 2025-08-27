@@ -1,0 +1,5 @@
+{
+  "name": "Network and Device Diagnostic Tool",
+  "description": "A one-click web application to perform a comprehensive test of your network connection, internet speed, and device location services, providing a clear and concise diagnostic report.",
+  "requestFramePermissions": []
+}
